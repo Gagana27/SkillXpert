@@ -4,8 +4,9 @@ import CourseSection from '../course_section';
 import PartnersSection from './partners_section';
 import TechnologySearchListSection from './technology_search_list_section';
 import TopCatagoriesListSection from './top_catagories_list_section';
-import StatsSection from './stats_section';
+// import StatsSection from './stats_section';
 import Study from '../../assets/study.svg';
+
 
 const LandingPage = () => {
   return (
